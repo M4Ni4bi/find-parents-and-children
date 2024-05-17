@@ -12,6 +12,4 @@ find-parents-and-children is a program designed to analyze an Excel file contain
 1. Ensure you have Python installed on your system.
 2. Install the required dependencies using pip:
    ```bash
-   pip install openpyxl"# find-parents-and-children" 
-"# find-parents-and-children" 
-"# find-parents-and-children" 
+   pip install openpyxl 
